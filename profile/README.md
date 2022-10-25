@@ -1,1 +1,25 @@
-# 我們的 Profile ㄛ
+# 嗨您好歡迎來到VUAGE程式開發團隊
+#
+此機器人是由以下人員共同開發:
+
+> **`小龍#6495`**
+
+> **`夏特稀#1219`**
+
+> **`玟珄Min Xuan#1009`**
+
+也感謝各位使用 :rtgojerhtertjoier: VUAGE機器人
+
+本機器人指令有 </help:0> 來看看我的功能
+
+目前還正在更新中
+
+**VUAGE相關連結**
+
+> [邀請Vuage](https://discord.com/api/oauth2/authorize?client_id=996719516778237952&permissions=8&scope=bot%20applications.commands)
+
+> [Discord官方程式群](https://discord.gg/2FtxrKGHPd)
+
+> [Vuage官網](https://sites.google.com/view/vuage/%E9%A6%96%E9%A0%81)
+
+> [Vuage GITHUB](https://github.com/Vuage)
