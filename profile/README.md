@@ -9,6 +9,8 @@
 
 > **`玟珄Min Xuan#1009`**
 
+> **`yyw#9261 (沒啥用處)`**
+
 也感謝各位使用 :rtgojerhtertjoier: VUAGE機器人
 
 本機器人指令有 </help:0> 來看看我的功能
