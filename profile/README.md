@@ -21,3 +21,5 @@
 > [Vuage官網](https://sites.google.com/view/vuage/%E9%A6%96%E9%A0%81)
 
 > [Vuage GITHUB](https://github.com/Vuage)
+
+> [DISCORD](https://discord.gg/2FtxrKGHPd)
